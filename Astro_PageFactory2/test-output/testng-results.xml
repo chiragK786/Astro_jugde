@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T11:08:32 IST" name="Default suite" finished-at="2024-04-26T11:09:56 IST" duration-ms="84374">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T11:08:32 IST" name="Default test" finished-at="2024-04-26T11:09:56 IST" duration-ms="84374">
+      <class name="Astro_New.Astro_PageFactory.main_file">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Astro_New.Astro_PageFactory.main_file@7fd50002]" started-at="2024-04-26T11:08:32 IST" name="setUp" finished-at="2024-04-26T11:08:32 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ycap_order_multiple_times()[pri:1, instance:Astro_New.Astro_PageFactory.main_file@7fd50002]" started-at="2024-04-26T11:08:32 IST" name="ycap_order_multiple_times" description="Verify that Baby report is working" finished-at="2024-04-26T11:09:56 IST" duration-ms="83519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ycap_order_multiple_times -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Astro_New.Astro_PageFactory.main_file@7fd50002]" started-at="2024-04-26T11:09:56 IST" name="tearDown" finished-at="2024-04-26T11:09:56 IST" duration-ms="81" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ycap_order_multiple_times status=SUCCESS method=main_file.ycap_order_multiple_times()[pri:1, instance:Astro_New.Astro_PageFactory.main_file@7fd50002] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Astro_New.Astro_PageFactory.main_file -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
